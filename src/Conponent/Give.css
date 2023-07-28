@@ -1,0 +1,17 @@
+.s{
+    display: flex;
+    justify-content: space-evenly;
+   background: #7fb7d5
+
+;
+margin: 2rem 1rem;
+gap: 5px;
+padding: 0.16rem 0.8rem ;
+border-radius: 5px;
+align-items: center;
+width: 30rem;
+height: 7rem;
+color: #222;
+font-size: 2.4rem;
+
+}

@@ -1,0 +1,12 @@
+.Nav{
+    height: 3.5rem;
+    background-color:#83b4d4
+    ;
+    color: #fff;
+    font-weight:700;
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.8rem;
+}

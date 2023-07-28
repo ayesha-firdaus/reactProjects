@@ -1,0 +1,37 @@
+.d-container{
+    display: flex;
+    justify-content: space-evenly;
+background-color:#84bbd9 ;
+margin: 2rem 1rem;
+gap: 5px;
+padding: 0.16rem 0.8rem ;
+border-radius: 5px;
+align-items: center;
+width: 30rem;
+height: 15rem;
+font-size: 1rem;
+}
+img{
+    width: 20%;
+    border-radius: 5px;
+
+}
+
+.d-btn{
+ 
+    padding: 0.5rem;
+       color: #fff;
+       border-radius: 50%;
+       border: none;
+       background-color:#de2a29 ;
+       font-size: 1.1rem;
+       font-weight:700;
+       transition :all 0.03s;
+       margin-bottom: 0.5rem;
+      
+   
+
+}
+.d-btn:hover{
+   background-color:#e1831f ;
+}

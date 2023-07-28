@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    justify-content: space-evenly;
+background-color:#84bbd9 ;
+margin: 2rem 1rem;
+gap: 5px;
+padding: 0.16rem 0.8rem ;
+border-radius: 5px;
+align-items: center;
+width: 100%;
+height: 10rem;
+
+}
+.img{
+    width: 20%;
+    border-radius: 5px;
+
+}
+.title,.year{
+font-size: 1.8rem;
+letter-spacing: 0.75px;
+color: #fff;
+
+}

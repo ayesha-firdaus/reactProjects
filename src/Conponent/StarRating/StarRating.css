@@ -1,0 +1,14 @@
+.star{
+    display: flex;
+    gap: 20px;
+
+}
+.design{
+    width: 2rem;
+    display: flex;
+    
+}
+.star-flex{
+    display: flex;
+    gap: 10px;
+}
